@@ -173,3 +173,14 @@ blockquote p {
   border: 2px solid white;
   border-radius: 0.5rem;
 }
+
+/* Footer */
+footer {
+  background-color: var(--darkBg);
+  color: #e5e7eb;
+  height: 6rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
